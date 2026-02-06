@@ -1,12 +1,11 @@
 # Hi! I am Kaiyan (Nathan) Zhang 👋
 
 I do **Economics + Statistics** at **UBC**, and I spend an unreasonable amount of time turning messy data into models that ***mostly*** behave. 
-My goal now is to gain more industry experience so that I can understand real-world problems and learn how to solve them using the methods I personally enjoy (e.g. panel FE models for inference and ensemble methods for prediction).
-
-Currently: suffering thru courses + research assistanting  + side project maxxing + **open to work**
 - **Interests**: econometrics, causal inference, time series, statistical learning, NLP, macroeconomics theory, game theory
 - **What I do when I'm not studying**: 🏃 Running, 🎮 video games, 🤓 manga & anime (yes, I have opinions)
 - **Where you most likely see me?**: UBC Vancouver Campus (almost 365 days)
+
+My goal now is to **gain more industry experience** so that I can understand real-world problems better and learn how to solve them using the methods I personally enjoy (e.g. panel FE models for inference and ensemble methods for prediction).
 
 ## What I'm up to right now?
 
