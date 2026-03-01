@@ -20,7 +20,7 @@ My goal now is to **gain more industry experience** so that I can understand rea
   - Some NTL $\times$ Crime econometrics project **["Illumi-naughty"](https://github.com/NathanPalaiologos/NTL-Crime-FE)**
   - STAT 443 Group Project: **Forecasting Net Savings of Households and Firms in Canada Using Structural Models**
   - **FX-monitor**
-  - **Econometrics Game 2026**: TBD
+  - **Econometrics Game 2026**: **[The Opportunity Cost of Schooling](https://github.com/Irene-Berezin/chicagogames_prelim)**
 - **Rewatching [The Fifth Republic](https://www.imdb.com/title/tt25052092/)**
 - **Running**: DM me on **[Strava](https://www.strava.com/athletes/125966060)** if you want to run 10k in the morning together
 
