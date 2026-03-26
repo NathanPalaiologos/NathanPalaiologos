@@ -1,43 +1,38 @@
-# Hi! I am Kaiyan (Nathan) Zhang 👋
+# Hi there! I'm Kaiyan (Nathan) Zhang 👋
 
-I do **Economics + Statistics** at **UBC**, and I spend an unreasonable amount of time turning messy data into models that ***mostly*** behave. 
-- **Interests**: econometrics, causal inference, time series, statistical learning, NLP, macroeconomics theory, game theory
-- **What I do when I'm not studying**: 🏃 Running, 🎮 video games, 🤓 manga & anime (yes, I have opinions)
-- **Where you most likely see me?**: UBC Vancouver Campus (almost 365 days)
+**Economics + Statistics @ UBC** | **Research Assistant @ UBC VSE**
 
-My goal now is to **gain more industry experience** so that I can understand real-world problems better and learn how to solve them using the methods I personally enjoy (e.g. panel FE models for inference and ensemble methods for prediction).
+**Status:** Actively seeking full-time **Data Science / Analytics / Quant internships** (Available for up to 16 months).
 
-## What I'm up to right now?
+I spend an unreasonable amount of time bridging the gap between economic theory and statistical reality. My sweet spot is solving real-world business and macro problems using causal inference, time series forecasting, and statistical learning.
 
-- **Job & Research Searching**: Available full time for up to 16 months
-- **Taking courses**:
-  - [Honours Intermediate Macroeconomics II](https://jlperla.github.io/undergrad_honours_macro/)
-  - [Computational Optimization](https://friedlander.io/ubc-cpsc-406/)
-  - Introduction to Statistical Inference
-  - Time Series and Forecasting
-- **Projects**
-  - Some works for the **[Praxis UBC](https://ubcecon.github.io/praxis-ubc/)**
-  - Some NTL $\times$ Crime econometrics project **["Illumi-naughty"](https://github.com/NathanPalaiologos/NTL-Crime-FE)**
-  - STAT 443 Group Project: **Forecasting Net Savings of Households and Firms in Canada Using Structural Models**
-  - **FX-monitor**
-  - **Econometrics Game 2026**: **[The Opportunity Cost of Schooling](https://github.com/Irene-Berezin/chicagogames_prelim)**
-- **Rewatching [The Fifth Republic](https://www.imdb.com/title/tt25052092/)**
-- **Running**: DM me on **[Strava](https://www.strava.com/athletes/125966060)** if you want to run 10k in the morning together
+### What I'm Working On Right Now
 
-## My skills
-- **Languages**: Python, R, Julia, Matlab  
-- **ML/Data**: SQL, NumPy/pandas, scikit-learn, PyTorch, TensorFlow, OpenCV, Tidyverse, GIS  
-- **Visualization**: Matplotlib, Plotly, ggplot2, Tableau Public, Desmos (I've made great plots for MATH 200)  
-- **Workflow**: Git/GitHub, Linux, Quarto, GitHub Actions, LaTeX, and yes… Excel
-- **Academic**:
-  - **Economics**: Microeconomic Analysis, Cost Benefit Analysis, Macro Finance, Advanced Econometrics, Game Theory
-  - **Statistics**: Statistical Learning, Statistical Inference, Statistical Modeling, Time Series Modeling
-  - **CS/DS**: Machine Learning, Data Mining, Computer Vision, Relational Database, Basic Algorithms, Computational Optimization
-  - **Mathematics**: Applied Linear Algebra, Stochastic Processes, Probability Theory, Multivariable Calculus
+- **Forecasting Household Net Savings:** A structural modeling project forecasting net savings of households and firms in Canada (STAT 443).
+- **[The Opportunity Cost of Schooling](https://github.com/Irene-Berezin/chicagogames_prelim):** Econometrics Game 2026 Preliminary Project.
+- **[Illumi-naughty](https://github.com/NathanPalaiologos/NTL-Crime-FE):** An NTL x Crime econometrics research project utilizing panel Fixed Effects models.
+- **[Praxis UBC](https://ubcecon.github.io/praxis-ubc/):** Ongoing analytical work and collaboration.
+- **Continuous Learning:** Tackling *Honours Intermediate Macroeconomics II*, *Computational Optimization*, *Time Series and Forecasting* to sharpen my quantitative edge.
 
-## Find me online
-- **Email**: nathanzhang1017@gmail.com | kzhang83@student.ubc.ca
-- **LinkedIn**: <https://linkedin.com/in/nathan-zhang-944168290>
-- **GitHub**: <https://github.com/NathanPalaiologos> (Majula $\to$ Majula)
+### Tech Stack & Skills
 
+- **Languages:** Python, R, Julia, SQL, MATLAB
+- **Machine Learning & Data:** NumPy, pandas, scikit-learn, PyTorch, TensorFlow, Tidyverse, OpenCV, GIS
+- **Data Visualization:** Matplotlib, Plotly, ggplot2, Tableau Public (and occasionally pushing Desmos to its absolute limits)
+- **Workflow & Tools:** Git/GitHub, Linux, Quarto, GitHub Actions, LaTeX, Advanced Excel
+- **Domain Expertise:** Causal Inference, Time Series Modeling, Econometrics, Game Theory, A/B Testing Fundamentals
 
+### Beyond the Screen
+
+When I'm not wrestling with convergence issues or optimizing queries, I am:
+- **Running:** Catch me running a morning 10k! Let's connect on **[Strava](https://www.strava.com/athletes/125966060)**.
+- **Otaku Life:** Playing video games, or defending my (very correct) opinions on manga & anime.
+- **Location:** UBC Vancouver Campus (practically a permanent fixture 365 days a year).
+
+### Let's Connect!
+
+- **Email:** nathanzhang1017@gmail.com | kzhang83@student.ubc.ca
+- **LinkedIn:** [nathan-zhang-944168290](https://linkedin.com/in/nathan-zhang-944168290)
+
+---
+*“All models are wrong, but some are useful”* -- George E.P. Box
