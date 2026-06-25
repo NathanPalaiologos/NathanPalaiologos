@@ -6,7 +6,7 @@
 
 My primary passion is in all kinds of data, and my focus lies in solving real-world problems utilizing causal inference, time series forecasting, and statistical learning. 
 
-Checkout my [**personal site**](https://nathanpalaiologos.github.io/nathan-k-zhang/>), maybe I'll begin dropping blogs one day.
+Checkout my [**personal site**](https://nathanpalaiologos.github.io/nathan-k-zhang/), maybe I'll begin dropping blogs one day.
 
 ### Technical Skills
 
