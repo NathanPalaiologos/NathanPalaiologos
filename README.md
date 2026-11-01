@@ -1,44 +1,55 @@
-# Hi there! I'm Kaiyan (Nathan) Zhang 👋
+# Hi, I'm Nathan (Kaiyan) Zhang
 
-**Economics + Statistics @ UBC** | **RA @ UBC Sauder School of Business** | **Prev RA @ UBC Vancouver School of Economics**
+I'm studying Economics and Statistics at the University of British Columbia,
+with a minor in Data Science. I'm currently an ESG Research Analyst Co-op at BCI and a Research Assistant
+at UBC Sauder School of Business. Previously, I worked with the Vancouver
+School of Economics and Praxis UBC on data science teaching materials.
 
-**Status:** Alive and actively seeking full-time **Data and Analytical Co-ops**, expected start date: **September, 2026**
+[Website](https://nathanpalaiologos.github.io/nathan-k-zhang/) ·
+[LinkedIn](https://linkedin.com/in/nathan-zhang-944168290) ·
+[Email](mailto:nathanzhang1017@gmail.com)
 
-My primary passion is in all kinds of data, and my focus lies in solving real-world problems utilizing causal inference, time series forecasting, and statistical learning. 
+## Research and projects
 
-Checkout my [**personal site**](https://nathanpalaiologos.github.io/nathan-k-zhang/), maybe I'll begin dropping blogs one day.
+- **Financial text analysis:** Co-first author with Jerrold Huang on
+  *Sequential Tone Residualization and Abnormal Returns in Earnings Calls*,
+  accepted at ICAIF 2026 and selected for oral presentation. We study
+  earnings-call tone after accounting for financial information and
+  preceding dialogue.
 
-### Technical Skills
+- **Technological change and labor:** As the sole RA on a faculty-led
+  project at UBC Sauder, I link labor, occupation, and patent data,
+  construct technological exposure measures, and estimate wage and
+  occupational sorting models.
 
-* **Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white) and
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) (I am picking it up for fun)
-* **ML & Data:**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Tidyverse](https://img.shields.io/badge/tidyverse-211155?style=flat-square&logo=tidyverse&logoColor=white)
-* **Domain Expertise (Somewhat):** Causal Inference, Time Series Modeling, Econometrics, Machine Learning, A/B Testing, also Intermediate Economics Theories (I got several class highs!)
-* **Tools & Workflows:** Git/GitHub, Linux, Quarto, GitHub Actions, Docker, LaTeX, am also trying to pick up Apache Airflow
+- **LLM memory:** Co-first author with Jerrold Huang on
+  *Memory Response Paths and Path-Structured Context Compilation*,
+  currently under review. We study how individual memory records
+  affect agent decisions over time.
 
-### Beyond the Screen
+Some public work you can explore:
 
-When I am not buried in school or research, I am likely engaged in:
-* **Running:** Consistent 10k runner knowing good routes around UBC campus. Let's connect on **[Strava](https://www.strava.com/athletes/125966060)**.
-* **Media:** 70% of my body are made up of movies, anime, manga, and video games.
-* **Location:** [UBC Vancouver Campus](https://maps.app.goo.gl/63c5AkfLKTfv48kbA) (Most of the time).
+- [Payment friction and consumer spending](https://github.com/JerroldH/dcpc-friction-dml):
+  a collaborative causal ML project using DoubleML.
+- [Canadian inflation forecasting](https://github.com/NathanPalaiologos/VAR-Inflation-Forecast):
+  VAR forecasts with rolling out-of-sample evaluation.
+- [Praxis UBC](https://github.com/ubcecon/praxis-ubc):
+  teaching materials I contributed to on computer vision and text analysis
+  for social science research.
 
-### Contacts
+More research details and my CV are on my
+[website](https://nathanpalaiologos.github.io/nathan-k-zhang/).
 
-* **Email:** [nathanzhang1017@gmail.com](mailto:nathanzhang1017@gmail.com) | [kzhang83@student.ubc.ca](mailto:kzhang83@student.ubc.ca)
-* **LinkedIn:** [Nathan Zhang](https://linkedin.com/in/nathan-zhang-944168290)
+## Tools I use
 
-***
+- Languages: Python, R, SQL, Bash, Julia
+- Modeling: scikit-learn, PyTorch, statsmodels, fixest
+- Data and workflows: Polars, DuckDB, PySpark, Databricks,
+  HPC/Slurm, Git, Jupyter, Quarto
 
-> *"All models are wrong, but some are useful"*
-> George E.P. Box
+## Away from the keyboard
+
+I run and cycle around Vancouver, watch films and anime, and play video
+games. I've also started making a game of my own.
+
+You can find me on [Strava](https://www.strava.com/athletes/125966060).
